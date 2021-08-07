@@ -1,0 +1,1 @@
+# Localizing .net projects
