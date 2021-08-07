@@ -5,7 +5,7 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageId>thammett.Localization</PackageId>
         <Title>Localization</Title>
-        <Authors>Terry Hammett</Authors>
+        <Authors>thammett</Authors>
         <PackageProjectUrl>https://github.com/thammet/localization</PackageProjectUrl>
         <PackageLicenseUrl>https://github.com/thammet/localization/blob/main/LICENSE.md</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/thammet/localization</RepositoryUrl>
